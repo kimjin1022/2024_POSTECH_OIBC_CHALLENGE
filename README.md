@@ -1,7 +1,8 @@
 # 2024 POSTECH X OIBC CHALLENGE  
 ### 제6회 BIG DATA CHALLENGE 🏆
 
-<img src="https://github.com/user-attachments/assets/0e7d4d78-27b5-48f7-b0dd-d8b7ce14d5ff" alt="2024OIBC-poster-before" width="600" height = "600">
+#![2024OIBC-poster-before](https://github.com/user-attachments/assets/44e6f3e8-b715-46b8-9193-3a21c51ce0f7)
+<img src="https://github.com/user-attachments/assets/44e6f3e8-b715-46b8-9193-3a21c51ce0f7" alt="2024OIBC-poster-before" width="600" height = "600">
 
 ---
 
