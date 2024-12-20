@@ -1,8 +1,6 @@
-# 2024 POSTECH X OIBC CHALLENGE  
-### 제6회 BIG DATA CHALLENGE 🏆
+  ### 제6회 BIG DATA CHALLENGE 🏆
 
-#![2024OIBC-poster-before](https://github.com/user-attachments/assets/44e6f3e8-b715-46b8-9193-3a21c51ce0f7)
-<img src="https://github.com/user-attachments/assets/44e6f3e8-b715-46b8-9193-3a21c51ce0f7" alt="2024OIBC-poster-before" width="600" height = "600">
+<img src="https://github.com/user-attachments/assets/44e6f3e8-b715-46b8-9193-3a21c51ce0f7" alt="2024OIBC-poster-before" width="600" height = "800">
 
 ---
 
@@ -87,7 +85,7 @@ Jeju Power Market의 날씨 데이터와 시장 데이터를 활용해 XGBoost R
 ---
 📊 결과 및 시각화
 </br>
-<img width="500" alt="스크린샷 2024-11-20 오후 3 29 12" src="https://github.com/user-attachments/assets/d1e8b39f-fa21-452e-af73-2c144b356464">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/3fdb81a8-65ae-4472-b7c5-042d8121a01d" />
 
 ---
 🏆 수상 내역
